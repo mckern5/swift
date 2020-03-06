@@ -9,7 +9,7 @@ struct Stack<Element> {
 }
 
 var stackOfStrings = Stack<String>()
-stackOfStrings.push("uno")
+stackOfStrings.push("one")
 stackOfStrings.push("dos")
 stackOfStrings.push("tres")
 stackOfStrings.push("cuatro")
